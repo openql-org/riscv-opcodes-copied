@@ -74,6 +74,7 @@ csrs = [
   (0x000, 'ustatus'),
   (0x004, 'uie'),
   (0x005, 'utvec'),
+  (0x006, 'qbit'),
   (0x008, 'vstart'),
   (0x009, 'vxsat'),
   (0x00A, 'vxrm'),
