@@ -47,6 +47,9 @@ arglut['nf'] = (31,29)
 arglut['simm5'] = (19,15)
 arglut['zimm11'] = (30,20)
 
+# for quantum
+arglut['qimm6'] = (30,25)
+
 
 causes = [
   (0x00, 'misaligned fetch'),
